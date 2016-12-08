@@ -137,7 +137,6 @@ NemoWindow .sidebar .view {
 
     background-color: shade (@bg_color, 0.95);
 
-    /* background-color: red; */
     padding-left: 10px;
 
     background-color: @bg_color;
